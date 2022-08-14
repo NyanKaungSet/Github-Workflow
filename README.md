@@ -6,7 +6,7 @@
 # Introduction <a id="Introduction"></a>
 Here I tested cool things for readme profiles.
 
-***:warning: Copyright Disclaimer: I DO NOT own these codes. All rights belonged to their respective owners!***
+***:warning: Copyright Disclaimer: I DO NOT own these codes. All rights belonged to their respective owners! No copyright infringement intended.***
 <hr>
 
 
