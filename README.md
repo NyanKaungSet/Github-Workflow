@@ -3,7 +3,56 @@ Here I tested cool things for readme profiles.
 
 ## Snake Animation
 <img src="https://raw.githubusercontent.com/NyanKaungSet/Github-Workflow/b2d924b635f0c57f07ec18852ecf97e944af8816/github-contribution-grid-snake.svg">
+- Name your main branch as `master` or change the line 14 `master` ro `main`
+- Then Create another branch named `output`
+- Create `/.github/snake.yml`
+- Paste the following codes in that file
+```yml
+name: generate snake animation
 
+on:
+  # run automatically every 24 hours
+  schedule:
+    - cron: "0 */24 * * *" 
+  
+  # allows to manually run the job at any time
+  workflow_dispatch:
+  
+  # run on every push on the master branch
+  push:
+    branches:
+    - master # or main
+    
+  
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v2
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # push the content of <build_dir> to a branch
+      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
+      - name: push github-contribution-grid-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v2.6.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+- Run the Workflow in action.
+- If it is successful, it will create 2 svg, 1 for dark mode another one for light mode.
+<hr>
 
 ## Profile 3D
 <img src="profile-3d-contrib/profile-gitblock.svg">
@@ -40,3 +89,4 @@ jobs:
 - Run the Workflow in action.
 - If it is successful, it will create 10 svg in profile-3d-contrib file.
 - Then connect
+<hr>
