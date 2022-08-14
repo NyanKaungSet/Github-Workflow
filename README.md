@@ -100,9 +100,15 @@ jobs:
 ```
 
 - Run the Workflow in action.
-- If it is successful, it will create 10 svg in profile-3d-contrib file.
+- If it is successful, it will create 10 svg in profile-3d-contributions file.
   
 ***Original source : <a href="https://github.com/yoshi389111/github-profile-3d-contrib/tree/main">yoshi389111</a>***
 <hr>
   
 [Back To Top](#top)
+  
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=50&color=FFFFFF&background=363636&center=true&vCenter=true&width=800&height=80&lines=Thanks+For+Visiting!">
+  </a>
+</h1>
