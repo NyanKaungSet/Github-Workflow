@@ -1,12 +1,21 @@
-# Github-Workflow
-Here I tested cool things for readme profiles.
+# Table of Contents <a id="top"></a>
+1. [Introduction](#Introduction)
+1. [Snake Animation](#Snake_Animation)
+2. [3D Profile Contribution](#3D_Profile_Contribution)
 
-## Snake Animation
+# Introduction <a id="Introduction"></a>
+Here I tested cool things for readme profiles.
+<hr>
+
+
+# Snake Animation <a id="Snake_Animation"></a>
 <img src="https://raw.githubusercontent.com/NyanKaungSet/Github-Workflow/b2d924b635f0c57f07ec18852ecf97e944af8816/github-contribution-grid-snake.svg">
+
 - Name your main branch as `master` or change the line 14 `master` ro `main`
 - Then Create another branch named `output`
 - Create `/.github/snake.yml`
 - Paste the following codes in that file
+
 ```yml
 name: generate snake animation
 
@@ -50,15 +59,18 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
+
 - Run the Workflow in action.
 - If it is successful, it will create 2 svg, 1 for dark mode another one for light mode.
+
 <hr>
 
-## Profile 3D
+# 3D Profile Contribution <a id="3D_Profile_Contribution">
 <img src="profile-3d-contrib/profile-gitblock.svg">
 
 - Create `/.github/profile-3d.yml`
 - Paste the following codes in that file
+
 ```yml
 name: GitHub-Profile-3D-Contrib
 
@@ -88,5 +100,6 @@ jobs:
 
 - Run the Workflow in action.
 - If it is successful, it will create 10 svg in profile-3d-contrib file.
-- Then connect
+
 <hr>
+[Back To Top](#top)
