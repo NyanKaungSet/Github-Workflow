@@ -62,7 +62,8 @@ jobs:
 
 - Run the Workflow in action.
 - If it is successful, it will create 2 svg, 1 for dark mode another one for light mode.
-***Original source <a href="https://github.com/Platane/snk">Platane</a>
+
+***Original source : <a href="https://github.com/Platane/snk">Platane</a>***
 <hr>
 
 # 3D Profile Contribution <a id="3D_Profile_Contribution">
@@ -100,6 +101,7 @@ jobs:
 
 - Run the Workflow in action.
 - If it is successful, it will create 10 svg in profile-3d-contrib file.
+  
 ***Original source : <a href="https://github.com/yoshi389111/github-profile-3d-contrib/tree/main">yoshi389111</a>***
 <hr>
   
