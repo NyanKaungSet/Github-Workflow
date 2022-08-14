@@ -13,7 +13,7 @@ Here I tested cool things for readme profiles.
 
 - Name your main branch as `master` or change the line 14 `master` ro `main`
 - Then Create another branch named `output`
-- Create `/.github/snake.yml`
+- Create `/.github/snake.yml` in main branch
 - Paste the following codes in that file
 
 ```yml
