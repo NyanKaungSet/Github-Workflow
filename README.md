@@ -6,7 +6,7 @@
 # Introduction <a id="Introduction"></a>
 Here I tested cool things for readme profiles.
 
-***Copyright Disclaimer: I DO NOT own these codes. All rights belonged to their respective owners!***
+***:warning: Copyright Disclaimer: I DO NOT own these codes. All rights belonged to their respective owners!***
 <hr>
 
 
@@ -105,7 +105,7 @@ jobs:
 - Run the Workflow in action.
 - If it is successful, it will create 10 svg in profile-3d-contributions file.
   
-***Original source : <a href="https://github.com/yoshi389111/github-profile-3d-contrib/tree/main">yoshi389111</a>***<br>
+***Original source : <a href="https://github.com/yoshi389111/github-profile-3d-contrib/tree/main">:copyright: yoshi389111</a>***<br>
 [Back To Top](#top)
 <hr>
   
