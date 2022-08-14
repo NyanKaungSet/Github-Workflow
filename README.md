@@ -5,6 +5,8 @@
 
 # Introduction <a id="Introduction"></a>
 Here I tested cool things for readme profiles.
+
+***Copyright Disclaimer: I DO NOT own these codes. All rights belonged to their respective owners!***
 <hr>
 
 
