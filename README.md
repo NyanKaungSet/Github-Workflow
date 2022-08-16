@@ -111,7 +111,15 @@ jobs:
   
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-  
+<hr>
+ 
+# :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+<hr>
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=50&color=FFFFFF&background=363636&center=true&vCenter=true&width=800&height=80&lines=Thanks+For+Visiting!">
