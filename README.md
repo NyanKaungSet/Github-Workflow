@@ -129,9 +129,11 @@ jobs:
 <!--END_SECTION:activity-->
 
 <hr>
+  
 - Add the comment `<!--START_SECTION:activity-->` and `<!--END_SECTION:activity-->` in your README.md.
 - Copy all the codes. 
 - If you only copy and paste the `<start section>` and `<end section>` in README file. It will not work. 
+  
 ```md
 # :zap: Recent Activity
 
