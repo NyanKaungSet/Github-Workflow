@@ -2,7 +2,7 @@
 1. [Introduction](#Introduction)
 2. [Snake Animation](#Snake_Animation)
 3. [3D Profile Contribution](#3D_Profile_Contribution)
-4. [Wakatime Stats](#Wakatime_stats) *Currently Not Working* :expressionless:
+4. [Wakatime Stats](#Wakatime_stats)
 5. [Recent Activity](#Recent_Actvity)
 
 # Introduction <a id="Introduction"></a>
