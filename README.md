@@ -120,7 +120,6 @@ jobs:
 <hr>
  
 # :zap: Recent Activity <a id="Recent_Actvity">
-
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#90](https://github.com/CartimDraluc/Cartimpedia/pull/90) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
 2. 💪 Opened PR [#90](https://github.com/CartimDraluc/Cartimpedia/pull/90) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
@@ -129,10 +128,10 @@ jobs:
 5. ❗️ Opened issue [#89](https://github.com/CartimDraluc/Cartimpedia/issues/89) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
 <!--END_SECTION:activity-->
 
+<hr>
 - Add the comment `<!--START_SECTION:activity-->` and `<!--END_SECTION:activity-->` in your README.md.
-
-### README.md
-Copy all the codes. If you only copy and paste the `<start section>` and `<end section>` in README file. It will not be work. 
+- Copy all the codes. 
+- If you only copy and paste the `<start section>` and `<end section>` in README file. It will not work. 
 ```md
 # :zap: Recent Activity
 
@@ -144,7 +143,6 @@ Copy all the codes. If you only copy and paste the `<start section>` and `<end s
 5. ❗️ Opened issue [#89](https://github.com/CartimDraluc/Cartimpedia/issues/89) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
 <!--END_SECTION:activity-->
 ```
-
 - Create file name .github/workflows/update-readme.yml.
 - Copy the following codes.
 - Note that the job runs every half an hour.
