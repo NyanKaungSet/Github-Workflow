@@ -1,7 +1,9 @@
 # Table of Contents <a id="top"></a>
 1. [Introduction](#Introduction)
-1. [Snake Animation](#Snake_Animation)
-2. [3D Profile Contribution](#3D_Profile_Contribution)
+2. [Snake Animation](#Snake_Animation)
+3. [3D Profile Contribution](#3D_Profile_Contribution)
+4. [Wakatime Stats](#Wakatime_stats) *Currently Not Working*
+5. [Recent Activity](#Recent_Actvity)
 
 # Introduction <a id="Introduction"></a>
 Here I tested cool things for readme profiles.
@@ -109,12 +111,15 @@ jobs:
 [Back To Top](#top)
 <hr>
   
-# Wakatime Stats
+# Wakatime Stats <a id="Wakatime_stats">
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+  
+***Original source : <a href="#Wakatime_stats"></a>***<br>
+[Back To Top](#top)
 <hr>
  
-# :zap: Recent Activity
+# :zap: Recent Activity <a id="Recent_Actvity">
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#90](https://github.com/CartimDraluc/Cartimpedia/pull/90) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
@@ -123,6 +128,9 @@ jobs:
 4. ❗️ Closed issue [#89](https://github.com/CartimDraluc/Cartimpedia/issues/89) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
 5. ❗️ Opened issue [#89](https://github.com/CartimDraluc/Cartimpedia/issues/89) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
 <!--END_SECTION:activity-->
+  
+***Original source : <a href="https://github.com/jamesgeorge007">jamesgeorge007</a>***<br>
+[Back To Top](#top)
 <hr>
 
 <h1 align="center">
