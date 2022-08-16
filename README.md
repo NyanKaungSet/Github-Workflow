@@ -109,6 +109,7 @@ jobs:
 [Back To Top](#top)
 <hr>
   
+# Wakatime Stats
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 <hr>
