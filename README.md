@@ -2,7 +2,7 @@
 1. [Introduction](#Introduction)
 2. [Snake Animation](#Snake_Animation)
 3. [3D Profile Contribution](#3D_Profile_Contribution)
-4. [Wakatime Stats](#Wakatime_stats) *Currently Not Working*
+4. [Wakatime Stats](#Wakatime_stats) *Currently Not Working* :expressionless:
 5. [Recent Activity](#Recent_Actvity)
 
 # Introduction <a id="Introduction"></a>
@@ -128,7 +128,52 @@ jobs:
 4. ❗️ Closed issue [#89](https://github.com/CartimDraluc/Cartimpedia/issues/89) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
 5. ❗️ Opened issue [#89](https://github.com/CartimDraluc/Cartimpedia/issues/89) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
 <!--END_SECTION:activity-->
-  
+
+- Add the comment `<!--START_SECTION:activity-->` and `<!--END_SECTION:activity-->` in your README.md.
+
+### README.md
+Copy all the codes. If you only copy and paste the `<start section>` and `<end section>` in README file. It will not be work. 
+```md
+# :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#90](https://github.com/CartimDraluc/Cartimpedia/pull/90) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
+2. 💪 Opened PR [#90](https://github.com/CartimDraluc/Cartimpedia/pull/90) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
+3. 🗣 Commented on [#89](https://github.com/CartimDraluc/Cartimpedia/issues/89) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
+4. ❗️ Closed issue [#89](https://github.com/CartimDraluc/Cartimpedia/issues/89) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
+5. ❗️ Opened issue [#89](https://github.com/CartimDraluc/Cartimpedia/issues/89) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
+<!--END_SECTION:activity-->
+```
+
+- Create file name .github/workflows/update-readme.yml.
+- Copy the following codes.
+- Note that the job runs every half an hour.
+- make sure you created GITHUB_TOKEN with following scopes in your Personal access tokens.
+- admin:public_key, gist, notifications, workflow, write:packages
+
+### YML file
+```yml
+name: Update README
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Update this repo's README with recent activity
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+<hr>
+
+
 ***Original source : <a href="https://github.com/jamesgeorge007">jamesgeorge007</a>***<br>
 [Back To Top](#top)
 <hr>
