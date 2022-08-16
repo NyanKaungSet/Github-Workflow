@@ -171,8 +171,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
-<hr>
-
 
 ***Original source : <a href="https://github.com/jamesgeorge007">jamesgeorge007</a>***<br>
 [Back To Top](#top)
