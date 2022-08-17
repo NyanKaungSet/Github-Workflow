@@ -125,11 +125,11 @@ jobs:
  
 # :zap: Recent Activity <a id="Recent_Actvity">
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#80](https://github.com/jamesgeorge007/github-activity-readme/issues/80) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-2. 💪 Opened PR [#1](https://github.com/kansuorhan/Github-Workflow/pull/1) in [kansuorhan/Github-Workflow](https://github.com/kansuorhan/Github-Workflow)
-3. 🗣 Commented on [#80](https://github.com/jamesgeorge007/github-activity-readme/issues/80) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-4. 🗣 Commented on [#80](https://github.com/jamesgeorge007/github-activity-readme/issues/80) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-5. 🎉 Merged PR [#90](https://github.com/CartimDraluc/Cartimpedia/pull/90) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
+1. ❗️ Closed issue [#6](https://github.com/NyanKaungSet/Github-Workflow/issues/6) in [NyanKaungSet/Github-Workflow](https://github.com/NyanKaungSet/Github-Workflow)
+2. 🗣 Commented on [#6](https://github.com/NyanKaungSet/Github-Workflow/issues/6) in [NyanKaungSet/Github-Workflow](https://github.com/NyanKaungSet/Github-Workflow)
+3. 🗣 Commented on [#6](https://github.com/NyanKaungSet/Github-Workflow/issues/6) in [NyanKaungSet/Github-Workflow](https://github.com/NyanKaungSet/Github-Workflow)
+4. ❗️ Opened issue [#6](https://github.com/NyanKaungSet/Github-Workflow/issues/6) in [NyanKaungSet/Github-Workflow](https://github.com/NyanKaungSet/Github-Workflow)
+5. ❗️ Opened issue [#68](https://github.com/NyanKaungSet/Alpha/issues/68) in [NyanKaungSet/Alpha](https://github.com/NyanKaungSet/Alpha)
 <!--END_SECTION:activity-->
 
 <hr>
