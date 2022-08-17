@@ -127,11 +127,11 @@ jobs:
  
 # :zap: Recent Activity <a id="Recent_Actvity">
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/NyanKaungSet/Github-Workflow/issues/6) in [NyanKaungSet/Github-Workflow](https://github.com/NyanKaungSet/Github-Workflow)
-2. 🗣 Commented on [#6](https://github.com/NyanKaungSet/Github-Workflow/issues/6) in [NyanKaungSet/Github-Workflow](https://github.com/NyanKaungSet/Github-Workflow)
-3. 🗣 Commented on [#6](https://github.com/NyanKaungSet/Github-Workflow/issues/6) in [NyanKaungSet/Github-Workflow](https://github.com/NyanKaungSet/Github-Workflow)
-4. ❗️ Opened issue [#6](https://github.com/NyanKaungSet/Github-Workflow/issues/6) in [NyanKaungSet/Github-Workflow](https://github.com/NyanKaungSet/Github-Workflow)
-5. ❗️ Opened issue [#68](https://github.com/NyanKaungSet/Alpha/issues/68) in [NyanKaungSet/Alpha](https://github.com/NyanKaungSet/Alpha)
+1. 🗣 Commented on [#2](https://github.com/fbuireu/fbuireu/issues/2) in [fbuireu/fbuireu](https://github.com/fbuireu/fbuireu)
+2. 💪 Opened PR [#2](https://github.com/fbuireu/fbuireu/pull/2) in [fbuireu/fbuireu](https://github.com/fbuireu/fbuireu)
+3. ❗️ Closed issue [#6](https://github.com/NyanKaungSet/Github-Workflow/issues/6) in [NyanKaungSet/Github-Workflow](https://github.com/NyanKaungSet/Github-Workflow)
+4. ❗️ Reopened issue [#6](https://github.com/NyanKaungSet/Github-Workflow/issues/6) in [NyanKaungSet/Github-Workflow](https://github.com/NyanKaungSet/Github-Workflow)
+5. ❌ Closed PR [#1](https://github.com/fbuireu/fbuireu/pull/1) in [fbuireu/fbuireu](https://github.com/fbuireu/fbuireu)
 <!--END_SECTION:activity-->
 
 <hr>
