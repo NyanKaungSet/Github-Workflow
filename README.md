@@ -2,7 +2,7 @@
 1. [Introduction](#Introduction)
 2. [Snake Animation](#Snake_Animation)
 3. [3D Profile Contribution](#3D_Profile_Contribution)
-4. [Wakatime Stats](#Wakatime_stats) *Currently Not Working Properly*
+4. [Wakatime Stats](#Wakatime_stats) (*Currently Not Working Properly*)
 5. [Recent Activity](#Recent_Actvity)
 
 # Introduction <a id="Introduction"></a>
@@ -111,7 +111,7 @@ jobs:
 [Back To Top](#top)
 <hr>
   
-# Wakatime Stats <a id="Wakatime_stats">
+# Wakatime Stats <a id="Wakatime_stats"> (*Currently Not Working Properly*)
 <!--START_SECTION:waka-->
 ```text
 🌞 Morning    95 commits     ███████░░░░░░░░░░░░░░░░░░   30.55%
