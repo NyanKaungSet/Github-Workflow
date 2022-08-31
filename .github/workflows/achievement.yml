@@ -1,4 +1,4 @@
-name: Compact display
+name: Detailed Achievement Display
 on:
   schedule:
     - cron: "0 23 9 9 *"
