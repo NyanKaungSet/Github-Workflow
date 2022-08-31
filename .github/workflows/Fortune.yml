@@ -7,7 +7,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
+    name: Fortune cookie
     steps:
       - uses: lowlighter/metrics@latest
         with:
