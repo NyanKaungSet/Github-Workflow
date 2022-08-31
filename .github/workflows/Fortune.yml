@@ -12,6 +12,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
             filename: metrics.plugin.fortune.svg
+            token: ${{ secrets.GITHUB_TOKEN }}
             base: ""
             plugin_fortune: yes
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
