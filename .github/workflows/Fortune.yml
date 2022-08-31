@@ -1,6 +1,16 @@
 name: Fortune
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.fortune.svg
-  base: ""
-  plugin_fortune: yes
+on:
+  schedule:
+    - cron: "0 23 9 9 *"
+  workflow_dispatch:
+ 
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+            filename: metrics.plugin.fortune.svg
+            base: ""
+            plugin_fortune: yes
