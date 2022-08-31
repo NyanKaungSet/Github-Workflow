@@ -153,7 +153,7 @@ jobs:
           SHOW_MASKED_TIME: true
 ```
 
-***Original source : <a href="https://github.com/athul/waka-readme">:copyright: athul</a><br>
+***Original source : <a href="https://github.com/athul/waka-readme">:copyright: athul</a>***<br>
 [Back To Top](#top)
 <hr>
  
