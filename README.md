@@ -114,6 +114,18 @@ jobs:
 # Wakatime Stats <a id="Wakatime_stats"> (*Currently Not Working Properly*)
 <!--START_SECTION:waka-->
 
+```text
+From: 11 July 2022 - To: 30 August 2022
+
+Total Time: 62 hrs 48 mins
+
+HTML         29 hrs 43 mins  >>>>>>>>>>>>-------------   47.32 %
+CSS          12 hrs 39 mins  >>>>>--------------------   20.15 %
+Markdown     12 hrs 5 mins   >>>>>--------------------   19.26 %
+JavaScript   8 hrs 20 mins   >>>----------------------   13.27 %
+Other        0 secs          -------------------------   00.00 %
+```
+
 <!--END_SECTION:waka-->
   
 ***Original source : <a href="#Wakatime_stats"></a>***<br>
