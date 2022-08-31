@@ -2,7 +2,7 @@
 1. [Introduction](#Introduction)
 2. [Snake Animation](#Snake_Animation)
 3. [3D Profile Contribution](#3D_Profile_Contribution)
-4. [Wakatime Stats](#Wakatime_stats) (*Currently Not Working Properly*)
+4. [Wakatime Stats](#Wakatime_stats)
 5. [Recent Activity](#Recent_Actvity)
 
 # Introduction <a id="Introduction"></a>
@@ -111,7 +111,7 @@ jobs:
 [Back To Top](#top)
 <hr>
   
-# Wakatime Stats <a id="Wakatime_stats"> (*Currently Not Working Properly*)
+# Wakatime Stats <a id="Wakatime_stats"> 
 <!--START_SECTION:waka-->
 
 ```text
@@ -127,8 +127,33 @@ Other        0 secs          -------------------------   00.00 %
 ```
 
 <!--END_SECTION:waka-->
-  
-***Original source : <a href="#Wakatime_stats"></a>***<br>
+
+- Add `<!--START_SECTION:waka-->` And `<!--END_SECTION:waka-->` in your README file.
+- Go to your repo's Settings -> Secrets and add a new secret named `WAKATIME_API_KEY` with your API key as it's value.
+- Create `.github/workflow/Wakatime.yml`
+- Add Following codes in your YML file
+
+```yml
+name: Waka Readme
+on:
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: WakaReadme DevMetrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          BLOCKS: ->
+          TIME_RANGE: all_time
+          SHOW_TIME: true
+          SHOW_MASKED_TIME: true
+```
+
+***Original source : <a href="https://github.com/athul/waka-readme">:copyright: athul</a><br>
 [Back To Top](#top)
 <hr>
  
