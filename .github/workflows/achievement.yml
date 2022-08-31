@@ -26,7 +26,7 @@ jobs:
           user: NyanKaungSet
           template: classic
           base: header, activity, community, metadata
-          config_timezone: Asia/Shanghai
+          config_timezone: Asia/Yangon
           plugin_followup: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
