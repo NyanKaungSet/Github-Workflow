@@ -1,7 +1,5 @@
 name: Detailed Achievement Display
 on:
-  schedule:
-    - cron: "0 23 9 9 *"
   workflow_dispatch:
   
 jobs:
@@ -36,7 +34,7 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_charts: yes
           plugin_stargazers: yes
-          plugin_people_user: NyanKaungSet
+          # plugin_people_user: NyanKaungSet
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}     
           plugin_wakatime_days: 7                                   
