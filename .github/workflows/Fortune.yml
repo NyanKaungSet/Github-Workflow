@@ -1,0 +1,6 @@
+name: Fortune
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.fortune.svg
+  base: ""
+  plugin_fortune: yes
