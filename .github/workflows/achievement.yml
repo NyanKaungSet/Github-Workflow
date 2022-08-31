@@ -1,0 +1,22 @@
+name: Compact display
+on:
+  schedule:
+    - cron: "0 23 9 9 *"
+  workflow_dispatch:
+  
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Achievement
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.achievements.compact.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_only: >-
+            polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
+            scripter, packager, explorer, infographile, manager
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: X
