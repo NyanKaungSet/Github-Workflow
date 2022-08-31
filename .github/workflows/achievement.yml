@@ -38,7 +38,7 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_charts: yes
           plugin_stargazers: yes
-          plugin_people_user: .github.user # Use same username as GitHub login:
+          plugin_people_user: NyanKaungSet # Use same username as GitHub login:
           plugin_wakatime: yes                                      # (🚧 @master feature)
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}      # Required
           plugin_wakatime_days: 7                                   # Display last week stats
