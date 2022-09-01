@@ -15,8 +15,7 @@ jobs:
           # Options
           user: NyanKaungSet
           template: classic
-          base: header, activity, community, metadata
-          base_hireable: yes
+          base: header, activity, community
           config_timezone: Asia/Rangoon
           plugin_lines: yes
           plugin_achievements: yes
