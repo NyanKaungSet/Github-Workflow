@@ -11,6 +11,7 @@ jobs:
         with:
           filename: assets/img/github-metric-TEST.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
           user: NyanKaungSet
