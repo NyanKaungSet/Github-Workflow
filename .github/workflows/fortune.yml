@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-            filename: metrics.plugin.fortune.svg
+            filename: assets/img/plugin-fortune.svg
             token: ${{ secrets.GITHUB_TOKEN }}
             base: ""
             plugin_fortune: yes
