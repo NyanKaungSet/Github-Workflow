@@ -1,43 +1,33 @@
-name: Detailed Achievement Display
+# Visit https://github.com/lowlighter/metrics#-documentation for full reference
+name: Metrics
 on:
   workflow_dispatch:
-  
+  push: {branches: ["master", "main"]}
 jobs:
-  build:
+  github-metrics:
     runs-on: ubuntu-latest
-    name: Achievement
+    permissions:
+      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: github_metric.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          
-          
+          token: ${{ secrets.METRICS_TOKEN }}
+
           # Options
           user: NyanKaungSet
           template: classic
-          base: header, activity, community, metadata
-          config_timezone: Asia/Yangon
-          plugin_followup: yes
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Rangoon
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: C
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-          plugin_languages: yes
-          plugin_languages_details: bytes-size, percentage
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          plugin_stargazers: yes
-          plugin_people_user: NyanKaungSet
           plugin_wakatime: yes
-          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}     
-          plugin_wakatime_days: 7                                   
-          plugin_wakatime_sections: time, projects, projects-graphs 
-          plugin_wakatime_limit: 4                                  
-          plugin_achievements: yes
-          plugin_achievements_limit: 10
-          plugin_achievements_threshold: C 
-          plugin_achievements_secrets: yes
-          plugin_skyline: yes
-          plugin_skyline_frames: 120
+          plugin_wakatime_days: 7
+          plugin_wakatime_limit: 5
+          plugin_wakatime_repositories_visibility: all
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_url: https://wakatime.com
+          plugin_wakatime_user: Nyan Kaung Set
