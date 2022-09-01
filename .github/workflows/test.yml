@@ -10,7 +10,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: assets/img/github-metric-TEST.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ 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 }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
