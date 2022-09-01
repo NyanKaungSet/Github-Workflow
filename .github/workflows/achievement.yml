@@ -5,6 +5,7 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    name: Metric
     permissions:
       contents: write
     steps:
