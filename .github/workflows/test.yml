@@ -16,8 +16,9 @@ jobs:
           user: NyanKaungSet
           template: classic
           base: header, activity, community, repositories, metadata
+          base_hireable: no
           config_timezone: Asia/Rangoon
-          plugin_lines: no
+          plugin_lines: yes
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_secrets: yes
