@@ -159,11 +159,11 @@ jobs:
  
 # :zap: Recent Activity <a id="Recent_Actvity">
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#7](https://github.com/NyanKaungSet/Dictionary/issues/7) in [NyanKaungSet/Dictionary](https://github.com/NyanKaungSet/Dictionary)
-2. 🗣 Commented on [#7](https://github.com/NyanKaungSet/Dictionary/issues/7) in [NyanKaungSet/Dictionary](https://github.com/NyanKaungSet/Dictionary)
-3. ❗️ Opened issue [#7](https://github.com/NyanKaungSet/Dictionary/issues/7) in [NyanKaungSet/Dictionary](https://github.com/NyanKaungSet/Dictionary)
-4. ❗️ Opened issue [#111](https://github.com/CartimDraluc/Cartimpedia/issues/111) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
-5. ❗️ Opened issue [#110](https://github.com/CartimDraluc/Cartimpedia/issues/110) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
+1. ❗️ Closed issue [#111](https://github.com/CartimDraluc/Cartimpedia/issues/111) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
+2. 🎉 Merged PR [#112](https://github.com/CartimDraluc/Cartimpedia/pull/112) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
+3. 💪 Opened PR [#112](https://github.com/CartimDraluc/Cartimpedia/pull/112) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
+4. ❗️ Closed issue [#7](https://github.com/NyanKaungSet/Dictionary/issues/7) in [NyanKaungSet/Dictionary](https://github.com/NyanKaungSet/Dictionary)
+5. 🗣 Commented on [#7](https://github.com/NyanKaungSet/Dictionary/issues/7) in [NyanKaungSet/Dictionary](https://github.com/NyanKaungSet/Dictionary)
 <!--END_SECTION:activity-->
 
 <hr>
