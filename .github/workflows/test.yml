@@ -9,7 +9,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: assets/img/github-metric.svg
+          filename: assets/img/github-metric-TEST.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
