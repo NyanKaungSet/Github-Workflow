@@ -18,8 +18,6 @@ jobs:
           template: classic
           base: header, activity, community, metadata
           config_timezone: Asia/Rangoon
-          plugin_followup: yes
-          plugin_followup_sections: user
           
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
@@ -31,6 +29,9 @@ jobs:
           plugin_languages_recent_days: 365
           plugin_languages_recent_load: 700
           plugin_languages_sections: most-used
+          
+          plugin_followup: yes
+          plugin_followup_sections: user
           
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
