@@ -159,7 +159,7 @@ jobs:
  
 # :zap: Recent Activity <a id="Recent_Actvity">
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#111](https://github.com/CartimDraluc/Cartimpedia/issues/111) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
+1. ❗️ Opened issue [#7](https://github.com/NyanKaungSet/Github-Workflow/issues/7) in [NyanKaungSet/Github-Workflow](https://github.com/NyanKaungSet/Github-Workflow)
 2. 🎉 Merged PR [#112](https://github.com/CartimDraluc/Cartimpedia/pull/112) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
 3. 💪 Opened PR [#112](https://github.com/CartimDraluc/Cartimpedia/pull/112) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
 4. ❗️ Closed issue [#7](https://github.com/NyanKaungSet/Dictionary/issues/7) in [NyanKaungSet/Dictionary](https://github.com/NyanKaungSet/Dictionary)
