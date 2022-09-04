@@ -4,12 +4,14 @@
 3. [3D Profile Contribution](#3D_Profile_Contribution)
 4. [Wakatime Stats](#Wakatime_stats)
 5. [Recent Activity](#Recent_Actvity)
+6. [Spotify Playing Now](#Spotify_Playing_Now)
 
 # Introduction <a id="Introduction"></a>
 Here I tested cool things for readme profiles.
 
 ***:warning: Copyright Disclaimer: I DO NOT own these codes. All rights belonged to their respective owners! No copyright infringement intended.***
 <hr>
+
 
 
 # Snake Animation <a id="Snake_Animation"></a>
@@ -71,6 +73,8 @@ jobs:
 [Back To Top](#top)
 <hr>
 
+
+
 # 3D Profile Contribution <a id="3D_Profile_Contribution">
 <img src="profile-3d-contrib/profile-gitblock.svg">
 
@@ -110,6 +114,9 @@ jobs:
 ***Original source : <a href="https://github.com/yoshi389111/github-profile-3d-contrib/tree/main">:copyright: yoshi389111</a>***<br>
 [Back To Top](#top)
 <hr>
+  
+  
+  
   
 # Wakatime Stats <a id="Wakatime_stats"> 
 <!--START_SECTION:waka-->
@@ -156,6 +163,8 @@ jobs:
 ***Original source : <a href="https://github.com/athul/waka-readme">:copyright: athul</a>***<br>
 [Back To Top](#top)
 <hr>
+ 
+ 
  
 # :zap: Recent Activity <a id="Recent_Actvity">
 <!--START_SECTION:activity-->
@@ -213,6 +222,18 @@ jobs:
 ***Original source : <a href="https://github.com/jamesgeorge007">jamesgeorge007</a>***<br>
 [Back To Top](#top)
 <hr>
+
+
+
+
+# Spotify Playing Now <a id="Spotify_Playing_Now">
+- Go to <a href="https://spotify-github-profile.vercel.app/api/login">Spotify
+
+***Original source : <a href="https://github.com/kittinan/spotify-github-profile">kittinan</a>***<br>
+[Back To Top](#top)
+<hr>
+
+
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
