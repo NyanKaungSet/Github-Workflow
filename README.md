@@ -231,10 +231,15 @@ jobs:
 
 - Go to <a href="https://spotify-github-profile.vercel.app/api/login">Spotify GitHub Profile</a>
 - Sign in to Spotify
-- <img src="assets/img/Spotify/7B6A3A26-8561-43AE-9B25-AA498B7F145F.jpeg">
+  
+<hr>
+<img src="assets/img/Spotify/7B6A3A26-8561-43AE-9B25-AA498B7F145F.jpeg">
+  
 - Copy the MarkDown Code and paste it in your README file.
-- <img src="assets/img/Spotify/E1AC3BD8-7A15-44CC-985A-761D66BB877F.jpeg">
-- <img src="assets/img/Spotify/F821CEFB-8840-4F13-ACC8-800559E8C4AE.jpeg">
+
+<hr>
+<img src="assets/img/Spotify/F821CEFB-8840-4F13-ACC8-800559E8C4AE.jpeg">
+<img src="assets/img/Spotify/E1AC3BD8-7A15-44CC-985A-761D66BB877F.jpeg">
 
 <br>
 
