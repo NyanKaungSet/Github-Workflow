@@ -227,6 +227,8 @@ jobs:
 
 
 # Spotify Playing Now <a id="Spotify_Playing_Now">
+<div align=center><a href="https://github.com/kittinan/spotify-github-profile"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31nigmsyo6po7zicxftghlmn7nba&cover_image=true&theme=default"></a></div>
+
 - Go to <a href="https://spotify-github-profile.vercel.app/api/login">Spotify GitHub Profile</a>
 - Sign in to Spotify
 <img src="assets/img/Spotify/">
