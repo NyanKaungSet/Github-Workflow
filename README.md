@@ -5,6 +5,7 @@
 4. [Wakatime Stats](#Wakatime_stats)
 5. [Recent Activity](#Recent_Actvity)
 6. [Spotify Playing Now](#Spotify_Playing_Now)
+7. <a href="https://github.com/lowlighter/metrics">Profile Metrics (lowlighter)</a>
 
 # Introduction <a id="Introduction"></a>
 Here I tested cool things for readme profiles.
