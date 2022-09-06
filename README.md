@@ -1,4 +1,7 @@
-# Table of Contents <a id="top"></a>
+<a id="top"></a>
+
+<h1 align=center>Table of Contents</h1>
+
 1. [Introduction](#Introduction)
 2. [Snake Animation](#Snake_Animation)
 3. [3D Profile Contribution](#3D_Profile_Contribution)
