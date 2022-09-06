@@ -235,13 +235,13 @@ jobs:
   
 <hr>
 <img src="assets/img/Spotify/7B6A3A26-8561-43AE-9B25-AA498B7F145F.jpeg">
-  
+<hr>
 - Copy the MarkDown Code and paste it in your README file.
 
 <hr>
 <img src="assets/img/Spotify/F821CEFB-8840-4F13-ACC8-800559E8C4AE.jpeg">
 <img src="assets/img/Spotify/E1AC3BD8-7A15-44CC-985A-761D66BB877F.jpeg">
-
+<hr>
 <br>
 
 ***Original source : <a href="https://github.com/kittinan/spotify-github-profile">kittinan</a>***<br>
