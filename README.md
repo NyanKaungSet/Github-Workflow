@@ -172,11 +172,11 @@ jobs:
  
 # :zap: Recent Activity <a id="Recent_Actvity">
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#117](https://github.com/CartimDraluc/Cartimpedia/pull/117) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
-2. ❗️ Closed issue [#7](https://github.com/NyanKaungSet/Github-Workflow/issues/7) in [NyanKaungSet/Github-Workflow](https://github.com/NyanKaungSet/Github-Workflow)
-3. 🎉 Merged PR [#116](https://github.com/CartimDraluc/Cartimpedia/pull/116) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
-4. 💪 Opened PR [#116](https://github.com/CartimDraluc/Cartimpedia/pull/116) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
-5. 🎉 Merged PR [#115](https://github.com/CartimDraluc/Cartimpedia/pull/115) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
+1. 🗣 Commented on [#68](https://github.com/NyanKaungSet/Alpha/issues/68) in [NyanKaungSet/Alpha](https://github.com/NyanKaungSet/Alpha)
+2. ❗️ Closed issue [#68](https://github.com/NyanKaungSet/Alpha/issues/68) in [NyanKaungSet/Alpha](https://github.com/NyanKaungSet/Alpha)
+3. 🎉 Merged PR [#70](https://github.com/NyanKaungSet/Alpha/pull/70) in [NyanKaungSet/Alpha](https://github.com/NyanKaungSet/Alpha)
+4. 💪 Opened PR [#70](https://github.com/NyanKaungSet/Alpha/pull/70) in [NyanKaungSet/Alpha](https://github.com/NyanKaungSet/Alpha)
+5. 💪 Opened PR [#117](https://github.com/CartimDraluc/Cartimpedia/pull/117) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
 <!--END_SECTION:activity-->
 
 <hr>
