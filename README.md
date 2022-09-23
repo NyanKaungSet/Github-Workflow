@@ -127,11 +127,11 @@ jobs:
  
 # :zap: Recent Activity <a id="Recent_Actvity">
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/kansuorhan/Github-Workflow/pull/1) in [kansuorhan/Github-Workflow](https://github.com/kansuorhan/Github-Workflow)
-2. 💪 Opened PR [#100](https://github.com/CartimDraluc/Cartimpedia/pull/100) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
-3. 🎉 Merged PR [#99](https://github.com/CartimDraluc/Cartimpedia/pull/99) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
-4. 💪 Opened PR [#99](https://github.com/CartimDraluc/Cartimpedia/pull/99) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
-5. 🎉 Merged PR [#98](https://github.com/CartimDraluc/Cartimpedia/pull/98) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
+1. 🎉 Merged PR [#18](https://github.com/MuratTANC/Team14GitHub/pull/18) in [MuratTANC/Team14GitHub](https://github.com/MuratTANC/Team14GitHub)
+2. 💪 Opened PR [#18](https://github.com/MuratTANC/Team14GitHub/pull/18) in [MuratTANC/Team14GitHub](https://github.com/MuratTANC/Team14GitHub)
+3. ❌ Closed PR [#12](https://github.com/MuratTANC/Team14GitHub/pull/12) in [MuratTANC/Team14GitHub](https://github.com/MuratTANC/Team14GitHub)
+4. 💪 Opened PR [#12](https://github.com/MuratTANC/Team14GitHub/pull/12) in [MuratTANC/Team14GitHub](https://github.com/MuratTANC/Team14GitHub)
+5. 🎉 Merged PR [#1](https://github.com/kansuorhan/Github-Workflow/pull/1) in [kansuorhan/Github-Workflow](https://github.com/kansuorhan/Github-Workflow)
 <!--END_SECTION:activity-->
 
 <hr>
