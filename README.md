@@ -126,20 +126,18 @@ jobs:
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 July 2022 - To: 30 August 2022
+From: 11 July 2022 - To: 27 September 2022
 
-Total Time: 62 hrs 48 mins
+Total Time: 66 hrs 14 mins
 
-HTML         29 hrs 43 mins  >>>>>>>>>>>>-------------   47.32 %
-CSS          12 hrs 39 mins  >>>>>--------------------   20.15 %
-Markdown     12 hrs 5 mins   >>>>>--------------------   19.26 %
-JavaScript   8 hrs 20 mins   >>>----------------------   13.27 %
+HTML         32 hrs 12 mins  >>>>>>>>>>>>-------------   48.62 %
+CSS          13 hrs 1 min    >>>>>--------------------   19.67 %
+Markdown     12 hrs 13 mins  >>>>>--------------------   18.45 %
+JavaScript   8 hrs 46 mins   >>>----------------------   13.26 %
 Other        0 secs          -------------------------   00.00 %
 ```
 
-<!--END_SECTION:waka-->
-
-- Add `<!--START_SECTION:waka-->` And `<!--END_SECTION:waka-->` in your README file.
+<!--END_SECTION:waka-->` in your README file.
 - Go to your repo's Settings -> Secrets and add a new secret named `WAKATIME_API_KEY` with your API key as it's value.
 - Create `.github/workflow/Wakatime.yml`
 - Add Following codes in your YML file
