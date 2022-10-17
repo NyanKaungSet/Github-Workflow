@@ -127,11 +127,11 @@ jobs:
  
 # :zap: Recent Activity <a id="Recent_Actvity">
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/AlpArslan11/AutomationExercise_t14_testNG/pull/17) in [AlpArslan11/AutomationExercise_t14_testNG](https://github.com/AlpArslan11/AutomationExercise_t14_testNG)
-2. 💪 Opened PR [#17](https://github.com/AlpArslan11/AutomationExercise_t14_testNG/pull/17) in [AlpArslan11/AutomationExercise_t14_testNG](https://github.com/AlpArslan11/AutomationExercise_t14_testNG)
-3. 🎉 Merged PR [#14](https://github.com/AlpArslan11/AutomationExercise_t14_testNG/pull/14) in [AlpArslan11/AutomationExercise_t14_testNG](https://github.com/AlpArslan11/AutomationExercise_t14_testNG)
-4. 💪 Opened PR [#14](https://github.com/AlpArslan11/AutomationExercise_t14_testNG/pull/14) in [AlpArslan11/AutomationExercise_t14_testNG](https://github.com/AlpArslan11/AutomationExercise_t14_testNG)
-5. 🎉 Merged PR [#13](https://github.com/AlpArslan11/AutomationExercise_t14_testNG/pull/13) in [AlpArslan11/AutomationExercise_t14_testNG](https://github.com/AlpArslan11/AutomationExercise_t14_testNG)
+1. 🎉 Merged PR [#2](https://github.com/mudadagli/Team22_Project/pull/2) in [mudadagli/Team22_Project](https://github.com/mudadagli/Team22_Project)
+2. 💪 Opened PR [#2](https://github.com/mudadagli/Team22_Project/pull/2) in [mudadagli/Team22_Project](https://github.com/mudadagli/Team22_Project)
+3. 🎉 Merged PR [#1](https://github.com/mudadagli/Team22_Project/pull/1) in [mudadagli/Team22_Project](https://github.com/mudadagli/Team22_Project)
+4. 💪 Opened PR [#1](https://github.com/mudadagli/Team22_Project/pull/1) in [mudadagli/Team22_Project](https://github.com/mudadagli/Team22_Project)
+5. 🎉 Merged PR [#17](https://github.com/AlpArslan11/AutomationExercise_t14_testNG/pull/17) in [AlpArslan11/AutomationExercise_t14_testNG](https://github.com/AlpArslan11/AutomationExercise_t14_testNG)
 <!--END_SECTION:activity-->
 
 <hr>
