@@ -1,4 +1,4 @@
-<a id="top"></a>
+<a id="top"></a><img src="https://img.shields.io/badge/Made%20With%20Love%20By-Nyan%20Kaung%20Set-red"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"> <img src="https://img.shields.io/github/stars/NyanKaungSet/Github-Workflow?style=social">
 
 <h1 align=center>Table of Contents</h1>
 
@@ -11,7 +11,7 @@
 7. <a href="https://github.com/lowlighter/metrics">Profile Metrics (lowlighter)</a>
 
 # Introduction <a id="Introduction"></a>
-Here I tested cool things for readme profiles.
+Here I tested cool things for readme profiles. If you like this, please do give a star :star2:! :hugs:
 
 ***:warning: Copyright Disclaimer: I DO NOT own these codes. All rights belonged to their respective owners! No copyright infringement intended.***
 <hr>
