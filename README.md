@@ -237,6 +237,7 @@ jobs:
 <hr>
 <img src="assets/img/Spotify/7B6A3A26-8561-43AE-9B25-AA498B7F145F.jpeg">
 <hr>
+
 - Copy the MarkDown Code and paste it in your README file.
 
 <hr>
