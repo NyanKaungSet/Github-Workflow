@@ -127,11 +127,11 @@ jobs:
  
 # :zap: Recent Activity <a id="Recent_Actvity">
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#36](https://github.com/mudadagli/Team22_Project/pull/36) in [mudadagli/Team22_Project](https://github.com/mudadagli/Team22_Project)
-2. 💪 Opened PR [#36](https://github.com/mudadagli/Team22_Project/pull/36) in [mudadagli/Team22_Project](https://github.com/mudadagli/Team22_Project)
-3. 🗣 Commented on [#30](https://github.com/mudadagli/Team22_Project/issues/30) in [mudadagli/Team22_Project](https://github.com/mudadagli/Team22_Project)
-4. 🎉 Merged PR [#2](https://github.com/kansuorhan/Team_22_Cucumber-Project/pull/2) in [kansuorhan/Team_22_Cucumber-Project](https://github.com/kansuorhan/Team_22_Cucumber-Project)
-5. 💪 Opened PR [#2](https://github.com/kansuorhan/Team_22_Cucumber-Project/pull/2) in [kansuorhan/Team_22_Cucumber-Project](https://github.com/kansuorhan/Team_22_Cucumber-Project)
+1. 🎉 Merged PR [#57](https://github.com/mudadagli/Team22_Project/pull/57) in [mudadagli/Team22_Project](https://github.com/mudadagli/Team22_Project)
+2. 💪 Opened PR [#57](https://github.com/mudadagli/Team22_Project/pull/57) in [mudadagli/Team22_Project](https://github.com/mudadagli/Team22_Project)
+3. 🎉 Merged PR [#56](https://github.com/mudadagli/Team22_Project/pull/56) in [mudadagli/Team22_Project](https://github.com/mudadagli/Team22_Project)
+4. 💪 Opened PR [#56](https://github.com/mudadagli/Team22_Project/pull/56) in [mudadagli/Team22_Project](https://github.com/mudadagli/Team22_Project)
+5. 🎉 Merged PR [#53](https://github.com/mudadagli/Team22_Project/pull/53) in [mudadagli/Team22_Project](https://github.com/mudadagli/Team22_Project)
 <!--END_SECTION:activity-->
 
 <hr>
