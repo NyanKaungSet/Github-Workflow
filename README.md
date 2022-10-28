@@ -127,11 +127,11 @@ jobs:
  
 # :zap: Recent Activity <a id="Recent_Actvity">
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#57](https://github.com/mudadagli/Team22_Project/pull/57) in [mudadagli/Team22_Project](https://github.com/mudadagli/Team22_Project)
-2. 💪 Opened PR [#57](https://github.com/mudadagli/Team22_Project/pull/57) in [mudadagli/Team22_Project](https://github.com/mudadagli/Team22_Project)
-3. 🎉 Merged PR [#56](https://github.com/mudadagli/Team22_Project/pull/56) in [mudadagli/Team22_Project](https://github.com/mudadagli/Team22_Project)
-4. 💪 Opened PR [#56](https://github.com/mudadagli/Team22_Project/pull/56) in [mudadagli/Team22_Project](https://github.com/mudadagli/Team22_Project)
-5. 🎉 Merged PR [#53](https://github.com/mudadagli/Team22_Project/pull/53) in [mudadagli/Team22_Project](https://github.com/mudadagli/Team22_Project)
+1. 🎉 Merged PR [#18](https://github.com/mudadagli/NewTeam22_Project/pull/18) in [mudadagli/NewTeam22_Project](https://github.com/mudadagli/NewTeam22_Project)
+2. 💪 Opened PR [#18](https://github.com/mudadagli/NewTeam22_Project/pull/18) in [mudadagli/NewTeam22_Project](https://github.com/mudadagli/NewTeam22_Project)
+3. ❌ Closed PR [#17](https://github.com/mudadagli/NewTeam22_Project/pull/17) in [mudadagli/NewTeam22_Project](https://github.com/mudadagli/NewTeam22_Project)
+4. 💪 Opened PR [#17](https://github.com/mudadagli/NewTeam22_Project/pull/17) in [mudadagli/NewTeam22_Project](https://github.com/mudadagli/NewTeam22_Project)
+5. 🎉 Merged PR [#9](https://github.com/mudadagli/NewTeam22_Project/pull/9) in [mudadagli/NewTeam22_Project](https://github.com/mudadagli/NewTeam22_Project)
 <!--END_SECTION:activity-->
 
 <hr>
