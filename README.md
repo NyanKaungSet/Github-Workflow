@@ -127,11 +127,11 @@ jobs:
  
 # :zap: Recent Activity <a id="Recent_Actvity">
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/kansuorhan/Team_22_Cucumber-Project/pull/27) in [kansuorhan/Team_22_Cucumber-Project](https://github.com/kansuorhan/Team_22_Cucumber-Project)
-2. 💪 Opened PR [#27](https://github.com/kansuorhan/Team_22_Cucumber-Project/pull/27) in [kansuorhan/Team_22_Cucumber-Project](https://github.com/kansuorhan/Team_22_Cucumber-Project)
-3. 🎉 Merged PR [#24](https://github.com/kansuorhan/Team_22_Cucumber-Project/pull/24) in [kansuorhan/Team_22_Cucumber-Project](https://github.com/kansuorhan/Team_22_Cucumber-Project)
-4. 💪 Opened PR [#24](https://github.com/kansuorhan/Team_22_Cucumber-Project/pull/24) in [kansuorhan/Team_22_Cucumber-Project](https://github.com/kansuorhan/Team_22_Cucumber-Project)
-5. 🎉 Merged PR [#18](https://github.com/mudadagli/NewTeam22_Project/pull/18) in [mudadagli/NewTeam22_Project](https://github.com/mudadagli/NewTeam22_Project)
+1. 🎉 Merged PR [#38](https://github.com/kansuorhan/Team_22_Cucumber-Project/pull/38) in [kansuorhan/Team_22_Cucumber-Project](https://github.com/kansuorhan/Team_22_Cucumber-Project)
+2. ❌ Closed PR [#37](https://github.com/kansuorhan/Team_22_Cucumber-Project/pull/37) in [kansuorhan/Team_22_Cucumber-Project](https://github.com/kansuorhan/Team_22_Cucumber-Project)
+3. 🎉 Merged PR [#27](https://github.com/kansuorhan/Team_22_Cucumber-Project/pull/27) in [kansuorhan/Team_22_Cucumber-Project](https://github.com/kansuorhan/Team_22_Cucumber-Project)
+4. 💪 Opened PR [#27](https://github.com/kansuorhan/Team_22_Cucumber-Project/pull/27) in [kansuorhan/Team_22_Cucumber-Project](https://github.com/kansuorhan/Team_22_Cucumber-Project)
+5. 🎉 Merged PR [#24](https://github.com/kansuorhan/Team_22_Cucumber-Project/pull/24) in [kansuorhan/Team_22_Cucumber-Project](https://github.com/kansuorhan/Team_22_Cucumber-Project)
 <!--END_SECTION:activity-->
 
 <hr>
