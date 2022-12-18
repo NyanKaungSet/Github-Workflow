@@ -127,11 +127,11 @@ jobs:
  
 # :zap: Recent Activity <a id="Recent_Actvity">
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/akinalkan/MedunnaProject14/pull/25) in [akinalkan/MedunnaProject14](https://github.com/akinalkan/MedunnaProject14)
-2. 💪 Opened PR [#25](https://github.com/akinalkan/MedunnaProject14/pull/25) in [akinalkan/MedunnaProject14](https://github.com/akinalkan/MedunnaProject14)
-3. 🎉 Merged PR [#22](https://github.com/akinalkan/MedunnaProject14/pull/22) in [akinalkan/MedunnaProject14](https://github.com/akinalkan/MedunnaProject14)
-4. 💪 Opened PR [#22](https://github.com/akinalkan/MedunnaProject14/pull/22) in [akinalkan/MedunnaProject14](https://github.com/akinalkan/MedunnaProject14)
-5. 🎉 Merged PR [#3](https://github.com/akinalkan/MedunnaProject14/pull/3) in [akinalkan/MedunnaProject14](https://github.com/akinalkan/MedunnaProject14)
+1. 🎉 Merged PR [#46](https://github.com/akinalkan/MedunnaProject14/pull/46) in [akinalkan/MedunnaProject14](https://github.com/akinalkan/MedunnaProject14)
+2. 🗣 Commented on [#46](https://github.com/akinalkan/MedunnaProject14/issues/46) in [akinalkan/MedunnaProject14](https://github.com/akinalkan/MedunnaProject14)
+3. 🎉 Merged PR [#25](https://github.com/akinalkan/MedunnaProject14/pull/25) in [akinalkan/MedunnaProject14](https://github.com/akinalkan/MedunnaProject14)
+4. 💪 Opened PR [#25](https://github.com/akinalkan/MedunnaProject14/pull/25) in [akinalkan/MedunnaProject14](https://github.com/akinalkan/MedunnaProject14)
+5. 🎉 Merged PR [#22](https://github.com/akinalkan/MedunnaProject14/pull/22) in [akinalkan/MedunnaProject14](https://github.com/akinalkan/MedunnaProject14)
 <!--END_SECTION:activity-->
 
 <hr>
