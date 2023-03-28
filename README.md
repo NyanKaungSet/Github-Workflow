@@ -1,6 +1,6 @@
 <img src="https://img.shields.io/badge/Made%20With%20Love%20By-Nyan%20Kaung%20Set-red?logo=GitHub-Sponsors&logoColor=#white)"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"> <img src="https://img.shields.io/github/stars/NyanKaungSet/Github-Workflow?style=social"> 
 
-<h1 align=center>Table of Contents</h1>
+<h1 id="Table-Of_Content" align=center>Table of Contents</h1>
 
 1. [Introduction](#introduction-)
 2. [Snake Animation](#snake-animation-)
@@ -74,7 +74,7 @@ jobs:
 - If it is successful, it will create 2 svg, 1 for dark mode another one for light mode.
 
 ***Original source : <a href="https://github.com/Platane/snk">Platane</a>***<br>
-<a href="https://github.com/NyanKaungSet/Github-Workflow/blob/master/README.md#table-of-contents">Back To Top</a>
+[Back To Top](#table-of-contents-)
 <hr>
 
 
@@ -116,7 +116,7 @@ jobs:
 - If it is successful, it will create 10 svg in profile-3d-contributions file.
   
 ***Original source : <a href="https://github.com/yoshi389111/github-profile-3d-contrib/tree/main">:copyright: yoshi389111</a>***<br>
-<a href="https://github.com/NyanKaungSet/Github-Workflow/blob/master/README.md#table-of-contents">Back To Top</a>
+[Back To Top](#table-of-contents-)
 <hr>
   
   
@@ -163,7 +163,7 @@ jobs:
 ```
 
 ***Original source : <a href="https://github.com/athul/waka-readme">:copyright: athul</a>***<br>
-<a href="https://github.com/NyanKaungSet/Github-Workflow/blob/master/README.md#table-of-contents">Back To Top</a>
+[Back To Top](#table-of-contents-)
 <hr>
  
  
@@ -222,7 +222,7 @@ jobs:
 ```
 
 ***Original source : <a href="https://github.com/jamesgeorge007">jamesgeorge007</a>***<br>
-<a href="https://github.com/NyanKaungSet/Github-Workflow/blob/master/README.md#table-of-contents">Back To Top</a>
+[Back To Top](#table-of-contents-)
 <hr>
 
 
@@ -247,8 +247,7 @@ jobs:
 <br>
 
 ***Original source : <a href="https://github.com/kittinan/spotify-github-profile">kittinan</a>***<br>
-
-<a href="https://github.com/NyanKaungSet/Github-Workflow/blob/master/README.md#table-of-contents">Back To Top</a>
+[Back To Top](#table-of-contents-)
 <hr>
 
 
