@@ -1,12 +1,12 @@
 <img src="https://img.shields.io/badge/Made%20With%20Love%20By-Nyan%20Kaung%20Set-red?logo=GitHub-Sponsors&logoColor=#white)"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"> <img src="https://img.shields.io/github/stars/NyanKaungSet/Github-Workflow?style=social"> 
 
-<h1 id="Table-Of_Content" align=center>Table of Contents</h1>
+<h1 align=center>Table of Contents</h1><a id="Table_Of_Content"></a>
 
 1. [Introduction](#introduction-)
 2. [Snake Animation](#snake-animation-)
 3. [3D Profile Contribution](#3d-profile-Contribution-)
 4. [Wakatime Stats](#wakatime-stats-)
-5. [Recent Activity](#recent_actvity-)
+5. [Recent Activity](#recent-actvity-)
 6. [Spotify Playing Now](#spotify-playing-now-)
 7. <a href="https://github.com/lowlighter/metrics">Profile Metrics (lowlighter)</a>
 
