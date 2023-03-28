@@ -1,10 +1,10 @@
-<a id="top"></a><img src="https://img.shields.io/badge/Made%20With%20Love%20By-Nyan%20Kaung%20Set-red?logo=GitHub-Sponsors&logoColor=#white)"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"> <img src="https://img.shields.io/github/stars/NyanKaungSet/Github-Workflow?style=social"> 
+<img src="https://img.shields.io/badge/Made%20With%20Love%20By-Nyan%20Kaung%20Set-red?logo=GitHub-Sponsors&logoColor=#white)"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"> <img src="https://img.shields.io/github/stars/NyanKaungSet/Github-Workflow?style=social"> 
 
 <h1 align=center>Table of Contents</h1>
 
 1. <a href="https://github.com/NyanKaungSet/Github-Workflow/blob/master/README.md#introduction-">Introduction</a>
-2. [Snake Animation](#Snake_Animation)
-3. [3D Profile Contribution](#3D_Profile_Contribution)
+2. <a href="https://github.com/NyanKaungSet/Github-Workflow/blob/master/README.md#snake-animation-">Snake Animation</a>
+3. [3D Profile Contribution](#3d-profile-Contribution-)
 4. [Wakatime Stats](#Wakatime_stats)
 5. [Recent Activity](#Recent_Actvity)
 6. [Spotify Playing Now](#Spotify_Playing_Now)
