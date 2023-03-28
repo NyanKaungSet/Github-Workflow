@@ -6,7 +6,7 @@
 2. [Snake Animation](#snake-animation-)
 3. [3D Profile Contribution](#3d-profile-Contribution-)
 4. [Wakatime Stats](#wakatime-stats-)
-5. [Recent Activity](#recent-actvity-)
+5. [Recent Activity](#recent-activity-)
 6. [Spotify Playing Now](#spotify-playing-now-)
 7. <a href="https://github.com/lowlighter/metrics">Profile Metrics (lowlighter)</a>
 
@@ -169,6 +169,7 @@ jobs:
  
  
 # :zap: Recent Activity <a id="Recent_Actvity">
+
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#8](https://github.com/NyanKaungSet/Github-Workflow/pull/8) in [NyanKaungSet/Github-Workflow](https://github.com/NyanKaungSet/Github-Workflow)
 2. 🎉 Merged PR [#127](https://github.com/CartimDraluc/Cartimpedia/pull/127) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
