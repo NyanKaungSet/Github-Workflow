@@ -2,12 +2,12 @@
 
 <h1 align=center>Table of Contents</h1>
 
-1. <a href="https://github.com/NyanKaungSet/Github-Workflow/blob/master/README.md#introduction-">Introduction</a>
-2. <a href="https://github.com/NyanKaungSet/Github-Workflow/blob/master/README.md#snake-animation-">Snake Animation</a>
+1. [Introduction](#introduction-)
+2. [Snake Animation](#snake-animation-)
 3. [3D Profile Contribution](#3d-profile-Contribution-)
-4. [Wakatime Stats](#Wakatime_stats)
-5. [Recent Activity](#Recent_Actvity)
-6. [Spotify Playing Now](#Spotify_Playing_Now)
+4. [Wakatime Stats](#wakatime-stats-)
+5. [Recent Activity](#recent_actvity-)
+6. [Spotify Playing Now](#spotify-playing-now-)
 7. <a href="https://github.com/lowlighter/metrics">Profile Metrics (lowlighter)</a>
 
 # Introduction <a id="Introduction"></a>
