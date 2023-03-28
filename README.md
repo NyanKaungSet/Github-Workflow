@@ -168,7 +168,7 @@ jobs:
  
  
  
-# :zap: Recent Activity <a id="Recent_Activity">
+# :zap: Recent Activity <a id="recent-activity-">
 
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#8](https://github.com/NyanKaungSet/Github-Workflow/pull/8) in [NyanKaungSet/Github-Workflow](https://github.com/NyanKaungSet/Github-Workflow)
