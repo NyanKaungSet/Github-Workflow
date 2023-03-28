@@ -2,7 +2,7 @@
 
 <h1 align=center>Table of Contents</h1>
 
-1. [Introduction](#Introduction)
+1. <a href="https://github.com/NyanKaungSet/Github-Workflow/blob/master/README.md#Introduction">Back To Top</a>
 2. [Snake Animation](#Snake_Animation)
 3. [3D Profile Contribution](#3D_Profile_Contribution)
 4. [Wakatime Stats](#Wakatime_stats)
