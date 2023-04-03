@@ -5,7 +5,9 @@
 1. [Introduction](#introduction-)
 2. [Snake Animation](#snake-animation-)
 3. [3D Profile Contribution](#3d-profile-Contribution-)
-4. [Wakatime Stats](#wakatime-stats-)
+4. Wakatime Stats
+    1. [By athul](#wakatime-stats-athul-)
+    2. [By anmol]
 5. [Recent Activity](#recent-activity-)
 6. [Spotify Playing Now](#spotify-playing-now-)
 7. <a href="https://github.com/lowlighter/metrics">Profile Metrics (lowlighter)</a>
@@ -122,7 +124,7 @@ jobs:
   
   
   
-# Wakatime Stats <a id="Wakatime_stats"> 
+# Wakatime Stats By athul <a id="Wakatime_stats_athul"> 
 <!--START_SECTION:waka-->
 
 ```text
