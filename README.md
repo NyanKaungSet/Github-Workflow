@@ -7,7 +7,6 @@
 3. [3D Profile Contribution](#3d-profile-Contribution-)
 4. Wakatime Stats
     1. [By athul](#wakatime-stats-by-athul-)
-    2. [By anmol](#wakatime-stats-by-anmol098-)
 5. [Recent Activity](#recent-activity-)
 6. [Spotify Playing Now](#spotify-playing-now-)
 7. <a href="https://github.com/lowlighter/metrics">Profile Metrics (lowlighter)</a>
@@ -167,14 +166,7 @@ jobs:
 ***Original source : <a href="https://github.com/athul/waka-readme">:copyright: athul</a>***<br>
 [Back To Top](#table-of-contents-)
 <hr>
-    
-# Wakatime Stats By anmol098 <a id="Wakatime_stats_anmol098"> 
 
-
-
-***Original source : <a href="https://github.com/anmol098/waka-readme-stats">:copyright: anmol098</a>***<br>
-[Back To Top](#table-of-contents-)
-<hr> 
  
 # :zap: Recent Activity <a id="recent-activity-">
 
