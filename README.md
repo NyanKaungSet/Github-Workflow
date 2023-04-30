@@ -127,14 +127,14 @@ jobs:
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 July 2022 - To: 14 April 2023
+From: 11 July 2022 - To: 29 April 2023
 
-Total Time: 166 hrs 52 mins
+Total Time: 167 hrs 34 mins
 
-HTML         91 hrs 5 mins   █████████████▓░░░░░░░░░░░   54.59 %
-Markdown     30 hrs 50 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.48 %
-CSS          26 hrs 35 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.93 %
-JavaScript   16 hrs 40 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.00 %
+HTML         91 hrs 47 mins  █████████████▓░░░░░░░░░░░   54.78 %
+Markdown     30 hrs 50 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.41 %
+CSS          26 hrs 35 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.87 %
+JavaScript   16 hrs 40 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.95 %
 Other        1 hr 25 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
 ```
 
