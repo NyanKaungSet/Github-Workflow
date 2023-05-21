@@ -171,11 +171,11 @@ jobs:
 # :zap: Recent Activity <a id="recent-activity-">
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#59](https://github.com/CartimDraluc/Cartimpedia/issues/59) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
-2. 🎉 Merged PR [#134](https://github.com/CartimDraluc/Cartimpedia/pull/134) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
-3. 💪 Opened PR [#134](https://github.com/CartimDraluc/Cartimpedia/pull/134) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
-4. 🎉 Merged PR [#133](https://github.com/CartimDraluc/Cartimpedia/pull/133) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
-5. 💪 Opened PR [#133](https://github.com/CartimDraluc/Cartimpedia/pull/133) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
+1. 🎉 Merged PR [#27](https://github.com/NyanKaungSet/Challenger/pull/27) in [NyanKaungSet/Challenger](https://github.com/NyanKaungSet/Challenger)
+2. 💪 Opened PR [#27](https://github.com/NyanKaungSet/Challenger/pull/27) in [NyanKaungSet/Challenger](https://github.com/NyanKaungSet/Challenger)
+3. 🎉 Merged PR [#136](https://github.com/CartimDraluc/Cartimpedia/pull/136) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
+4. 💪 Opened PR [#136](https://github.com/CartimDraluc/Cartimpedia/pull/136) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
+5. 🎉 Merged PR [#4](https://github.com/NyanKaungSet/Templates/pull/4) in [NyanKaungSet/Templates](https://github.com/NyanKaungSet/Templates)
 <!--END_SECTION:activity-->
 
 <hr>
