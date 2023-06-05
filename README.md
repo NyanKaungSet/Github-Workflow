@@ -203,20 +203,22 @@ jobs:
 
 ### YML file
 ```yml
-name: Update README
+name: Recent Activity
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
+     - cron: '0 0  * * 0'
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: Update this repo's README with recent activity
+    permissions:
+      contents: write
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -244,13 +246,15 @@ jobs:
 <hr>
 <img src="assets/img/Spotify/F821CEFB-8840-4F13-ACC8-800559E8C4AE.jpeg">
 <img src="assets/img/Spotify/E1AC3BD8-7A15-44CC-985A-761D66BB877F.jpeg">
-<hr>
 <br>
 
 ***Original source : <a href="https://github.com/kittinan/spotify-github-profile">kittinan</a>***<br>
 [Back To Top](#table-of-contents-)
 <hr>
 
+ ### :warning: *Actions Status*
+ 
+[![Fortune](https://github.com/NyanKaungSet/Github-Workflow/actions/workflows/fortune.yml/badge.svg)](https://github.com/NyanKaungSet/Github-Workflow/actions/workflows/fortune.yml) [![Generate Snake](https://github.com/NyanKaungSet/Github-Workflow/actions/workflows/snake.yml/badge.svg)](https://github.com/NyanKaungSet/Github-Workflow/actions/workflows/snake.yml) [![Metrics](https://github.com/NyanKaungSet/Github-Workflow/actions/workflows/metric.yml/badge.svg)](https://github.com/NyanKaungSet/Github-Workflow/actions/workflows/metric.yml) [![Profile 3D Contributions](https://github.com/NyanKaungSet/Github-Workflow/actions/workflows/profile-3d.yml/badge.svg)](https://github.com/NyanKaungSet/Github-Workflow/actions/workflows/profile-3d.yml) [![Recent Activity](https://github.com/NyanKaungSet/Github-Workflow/actions/workflows/recent-activity.yml/badge.svg)](https://github.com/NyanKaungSet/Github-Workflow/actions/workflows/recent-activity.yml) [![Wakatime Metrics](https://github.com/NyanKaungSet/Github-Workflow/actions/workflows/wakatime.yml/badge.svg)](https://github.com/NyanKaungSet/Github-Workflow/actions/workflows/wakatime.yml)
 
 
 <h1 align="center">
