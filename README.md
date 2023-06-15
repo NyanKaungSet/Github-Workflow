@@ -126,16 +126,16 @@ jobs:
 # Wakatime Stats By athul <a id="Wakatime_stats_athul"> 
 <!--START_SECTION:waka-->
 
-```text
-From: 11 July 2022 - To: 29 May 2023
+```txt
+From: 11 July 2022 - To: 14 June 2023
 
-Total Time: 219 hrs 20 mins
+Total Time: 234 hrs 50 mins
 
-HTML             114 hrs 23 mins █████████████░░░░░░░░░░░░   52.15 %
-Markdown         37 hrs 26 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.07 %
-CSS              33 hrs 42 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.37 %
-JavaScript       27 hrs 15 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.43 %
-PHP              4 hrs           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+HTML             123 hrs 6 mins  █████████████░░░░░░░░░░░░   52.42 %
+Markdown         41 hrs 3 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.49 %
+CSS              35 hrs 40 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   15.19 %
+JavaScript       28 hrs 19 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.06 %
+PHP              4 hrs           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
 ```
 
 <!--END_SECTION:waka-->` in your README file.
