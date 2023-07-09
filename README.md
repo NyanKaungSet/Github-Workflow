@@ -171,11 +171,11 @@ jobs:
 # :zap: Recent Activity <a id="recent-activity-">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/NyanKaungSet/Lorem_Ipsum/pull/5) in [NyanKaungSet/Lorem_Ipsum](https://github.com/NyanKaungSet/Lorem_Ipsum)
-2. 💪 Opened PR [#5](https://github.com/NyanKaungSet/Lorem_Ipsum/pull/5) in [NyanKaungSet/Lorem_Ipsum](https://github.com/NyanKaungSet/Lorem_Ipsum)
-3. 🎉 Merged PR [#4](https://github.com/NyanKaungSet/Lorem_Ipsum/pull/4) in [NyanKaungSet/Lorem_Ipsum](https://github.com/NyanKaungSet/Lorem_Ipsum)
-4. 💪 Opened PR [#4](https://github.com/NyanKaungSet/Lorem_Ipsum/pull/4) in [NyanKaungSet/Lorem_Ipsum](https://github.com/NyanKaungSet/Lorem_Ipsum)
-5. 🎉 Merged PR [#3](https://github.com/NyanKaungSet/Lorem_Ipsum/pull/3) in [NyanKaungSet/Lorem_Ipsum](https://github.com/NyanKaungSet/Lorem_Ipsum)
+1. 🎉 Merged PR [#147](https://github.com/CartimDraluc/Cartimpedia/pull/147) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
+2. 💪 Opened PR [#147](https://github.com/CartimDraluc/Cartimpedia/pull/147) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
+3. 🎉 Merged PR [#146](https://github.com/CartimDraluc/Cartimpedia/pull/146) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
+4. 💪 Opened PR [#146](https://github.com/CartimDraluc/Cartimpedia/pull/146) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
+5. 🎉 Merged PR [#6](https://github.com/NyanKaungSet/Lighthouse/pull/6) in [NyanKaungSet/Lighthouse](https://github.com/NyanKaungSet/Lighthouse)
 <!--END_SECTION:activity-->
 
 <hr>
