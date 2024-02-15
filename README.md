@@ -127,15 +127,15 @@ jobs:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 July 2022 - To: 29 January 2024
+From: 11 July 2022 - To: 14 February 2024
 
-Total Time: 478 hrs 15 mins
+Total Time: 497 hrs 38 mins
 
-HTML             177 hrs 12 mins █████████▒░░░░░░░░░░░░░░░   37.05 %
-Markdown         115 hrs 21 mins ██████░░░░░░░░░░░░░░░░░░░   24.12 %
-Other            63 hrs 36 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.30 %
-CSS              44 hrs 32 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.31 %
-JavaScript       38 hrs 50 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 %
+HTML             179 hrs 50 mins █████████░░░░░░░░░░░░░░░░   36.14 %
+Markdown         117 hrs 9 mins  ██████░░░░░░░░░░░░░░░░░░░   23.54 %
+Other            73 hrs 37 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.79 %
+CSS              45 hrs 20 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 %
+JavaScript       38 hrs 50 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 %
 ```
 
 <!--END_SECTION:waka-->` in your README file.
