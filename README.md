@@ -127,15 +127,15 @@ jobs:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 July 2022 - To: 29 July 2025
+From: 11 July 2022 - To: 14 August 2025
 
-Total Time: 659 hrs 20 mins
+Total Time: 671 hrs 35 mins
 
-HTML             206 hrs 37 mins ████████░░░░░░░░░░░░░░░░░   31.34 %
-Markdown         175 hrs 40 mins ██████▓░░░░░░░░░░░░░░░░░░   26.64 %
-Other            115 hrs 58 mins ████▒░░░░░░░░░░░░░░░░░░░░   17.59 %
-Canva Design     58 hrs 25 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 %
-CSS              48 hrs 49 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 %
+HTML             206 hrs 50 mins ███████▓░░░░░░░░░░░░░░░░░   30.80 %
+Markdown         175 hrs 40 mins ██████▓░░░░░░░░░░░░░░░░░░   26.16 %
+Other            128 hrs         ████▓░░░░░░░░░░░░░░░░░░░░   19.06 %
+Canva Design     58 hrs 25 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 %
+CSS              48 hrs 49 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 %
 ```
 
 <!--END_SECTION:waka-->` in your README file.
