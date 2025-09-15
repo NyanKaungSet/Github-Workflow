@@ -127,13 +127,13 @@ jobs:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 July 2022 - To: 29 August 2025
+From: 11 July 2022 - To: 14 September 2025
 
-Total Time: 672 hrs 11 mins
+Total Time: 672 hrs 12 mins
 
 HTML             206 hrs 50 mins ███████▓░░░░░░░░░░░░░░░░░   30.77 %
-Markdown         175 hrs 40 mins ██████▓░░░░░░░░░░░░░░░░░░   26.14 %
-Other            128 hrs 36 mins ████▓░░░░░░░░░░░░░░░░░░░░   19.13 %
+Markdown         175 hrs 40 mins ██████▓░░░░░░░░░░░░░░░░░░   26.13 %
+Other            128 hrs 37 mins ████▓░░░░░░░░░░░░░░░░░░░░   19.13 %
 Canva Design     58 hrs 25 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   08.69 %
 CSS              48 hrs 49 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
 ```
